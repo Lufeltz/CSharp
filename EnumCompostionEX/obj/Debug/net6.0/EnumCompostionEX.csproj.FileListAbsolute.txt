@@ -1,0 +1,15 @@
+C:\Users\Samfix\Desktop\zZ\Projetos\CSharp\section9\EnumCompostionEX\EnumCompostionEX\bin\Debug\net6.0\EnumCompostionEX.exe
+C:\Users\Samfix\Desktop\zZ\Projetos\CSharp\section9\EnumCompostionEX\EnumCompostionEX\bin\Debug\net6.0\EnumCompostionEX.deps.json
+C:\Users\Samfix\Desktop\zZ\Projetos\CSharp\section9\EnumCompostionEX\EnumCompostionEX\bin\Debug\net6.0\EnumCompostionEX.runtimeconfig.json
+C:\Users\Samfix\Desktop\zZ\Projetos\CSharp\section9\EnumCompostionEX\EnumCompostionEX\bin\Debug\net6.0\EnumCompostionEX.dll
+C:\Users\Samfix\Desktop\zZ\Projetos\CSharp\section9\EnumCompostionEX\EnumCompostionEX\bin\Debug\net6.0\EnumCompostionEX.pdb
+C:\Users\Samfix\Desktop\zZ\Projetos\CSharp\section9\EnumCompostionEX\EnumCompostionEX\obj\Debug\net6.0\EnumCompostionEX.csproj.AssemblyReference.cache
+C:\Users\Samfix\Desktop\zZ\Projetos\CSharp\section9\EnumCompostionEX\EnumCompostionEX\obj\Debug\net6.0\EnumCompostionEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samfix\Desktop\zZ\Projetos\CSharp\section9\EnumCompostionEX\EnumCompostionEX\obj\Debug\net6.0\EnumCompostionEX.AssemblyInfoInputs.cache
+C:\Users\Samfix\Desktop\zZ\Projetos\CSharp\section9\EnumCompostionEX\EnumCompostionEX\obj\Debug\net6.0\EnumCompostionEX.AssemblyInfo.cs
+C:\Users\Samfix\Desktop\zZ\Projetos\CSharp\section9\EnumCompostionEX\EnumCompostionEX\obj\Debug\net6.0\EnumCompostionEX.csproj.CoreCompileInputs.cache
+C:\Users\Samfix\Desktop\zZ\Projetos\CSharp\section9\EnumCompostionEX\EnumCompostionEX\obj\Debug\net6.0\EnumCompostionEX.dll
+C:\Users\Samfix\Desktop\zZ\Projetos\CSharp\section9\EnumCompostionEX\EnumCompostionEX\obj\Debug\net6.0\refint\EnumCompostionEX.dll
+C:\Users\Samfix\Desktop\zZ\Projetos\CSharp\section9\EnumCompostionEX\EnumCompostionEX\obj\Debug\net6.0\EnumCompostionEX.pdb
+C:\Users\Samfix\Desktop\zZ\Projetos\CSharp\section9\EnumCompostionEX\EnumCompostionEX\obj\Debug\net6.0\EnumCompostionEX.genruntimeconfig.cache
+C:\Users\Samfix\Desktop\zZ\Projetos\CSharp\section9\EnumCompostionEX\EnumCompostionEX\obj\Debug\net6.0\ref\EnumCompostionEX.dll
