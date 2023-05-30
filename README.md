@@ -2,7 +2,7 @@
  Através dessa implementação, busquei explorar e aplicar essas características, permitindo um melhor entendimento e prática desses conceitos em um contexto real.</h2>
 
 <h2>UML Projeto</h2>
-<img src="./img/UML.png" alt="UML">
+<img src="./img/UMLNew.png" alt="UML">
 
 <h2>Console</h2>
 <img src="./img/Console.png" alt="Console">
